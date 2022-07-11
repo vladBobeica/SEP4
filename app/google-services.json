@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789290583349",
+    "project_id": "sauna-afed6",
+    "storage_bucket": "sauna-afed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789290583349:android:2499298082447abff8f87c",
+        "android_client_info": {
+          "package_name": "com.and.sauna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789290583349-98bf6l63fmkk2tqvdontqcb9b21ofcek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPx76s58sp_cTzu8wDinmLwZvT1P_cnvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789290583349-98bf6l63fmkk2tqvdontqcb9b21ofcek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
